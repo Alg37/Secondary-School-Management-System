@@ -1,1 +1,1 @@
-# Secondary-School-Management-System
+# Secondary-School RECORD-System
